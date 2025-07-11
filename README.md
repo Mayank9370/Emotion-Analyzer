@@ -16,8 +16,8 @@ A simple web-based application that analyzes user reflections to identify emotio
 
 ## 📸 Demo
 
-![Emotion Tool Screenshot](<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/c478d06d-3292-47cf-acd1-fa7d2b6108a4" />
-) <!-- Optional: Add a screenshot -->
+---------------- <img width="854" height="933" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/841bf68f-aa33-4e3c-b1ef-bebd4a9e2c48" />
+
 
 ---
 
