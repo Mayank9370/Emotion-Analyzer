@@ -226,13 +226,6 @@ const EmotionReflectionTool: React.FC = () => {
             </div>
           </div>
         )}
-
-        {/* Footer */}
-        <div className="text-center mt-12 pb-8">
-          <p className="text-gray-500 text-sm">
-            This tool provides general emotional insights and is not a substitute for professional mental health care.
-          </p>
-        </div>
       </div>
     </div>
   );
